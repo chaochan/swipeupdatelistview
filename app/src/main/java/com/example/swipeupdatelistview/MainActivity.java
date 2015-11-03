@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
             Toast.makeText(this, "テストデータ生成に失敗しました", Toast.LENGTH_SHORT).show();
         }
 
-        Toast.makeText(this, "下に引っ張って更新", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "下に引っ張って更新", Toast.LENGTH_LONG).show();
     }
 
 
